@@ -36,3 +36,5 @@ docker run -p 3000:3000 weather-app
 
 You can deploy the app using Google Cloud Run and trigger the deployment using Cloud Build. Please refer to the `cloudbuild.yaml` file for the deployment configuration.
 The `cloudbuild.yaml` file has been updated to use the environment variables passed as substituions in Cloud Build trigger.
+
+Current demo deployment is done using Vercel. Click this [link](https://weather-app-rho-neon-68.vercel.app/) to view the demo.
