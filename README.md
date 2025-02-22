@@ -40,6 +40,6 @@ The `cloudbuild.yaml` file has been updated to use the environment variables pas
 Current demo deployment is done using Vercel. Click this [link](https://weather-app-rho-neon-68.vercel.app/) to view the demo.
 
 
-##Reference
+## Reference
 
 This project is inspired by [DariusLukasukas](https://github.com/DariusLukasukas) with some additional features such as saving favorite locations from search, geolocation support, and update for using the free version of OpenWeatherMap API.
