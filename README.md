@@ -38,3 +38,8 @@ You can deploy the app using Google Cloud Run and trigger the deployment using C
 The `cloudbuild.yaml` file has been updated to use the environment variables passed as substituions in Cloud Build trigger.
 
 Current demo deployment is done using Vercel. Click this [link](https://weather-app-rho-neon-68.vercel.app/) to view the demo.
+
+
+##Reference
+
+This project is inspired by [DariusLukasukas](https://github.com/DariusLukasukas) with some additional features such as saving favorite locations from search, geolocation support, and update for using the free version of OpenWeatherMap API.
